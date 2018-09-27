@@ -5,20 +5,20 @@
 * { margin: 200; box-sizing: border-box; } 
 
 body { 
-    font-size: 15px; 
+    font-size: 18px; 
     line-height: 0.5px;
     font-family: Ubuntu, sans-serif;
     color: rgb(27, 27, 83);
 }
 
 h1 {
-    font-size: 15.xrem;
+    font-size: 25.xrem;
     text-align: center;
     color:whitesmoke;
 }
 
 h2 {
-    font-size: 2.xrem;
+    font-size: 8.xrem;
     text-align: left;
     border-bottom: .5px solid rgba(133, 32, 32, 0.747);
 }
