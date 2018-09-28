@@ -5,14 +5,14 @@
 * { margin: 200; box-sizing: border-box; } 
 
 body { 
-    font-size: 18px; 
+    font-size: 15px; 
     line-height: 0.5px;
     font-family: Ubuntu, sans-serif;
     color: rgb(27, 27, 83);
 }
 
 h1 {
-    font-size: 25.xrem;
+    font-size: 2.xrem;
     text-align: center;
     color:whitesmoke;
 }
@@ -20,7 +20,7 @@ h1 {
 h2 {
     font-size: 8.xrem;
     text-align: left;
-    border-bottom: .5px solid rgba(133, 32, 32, 0.747);
+    
 }
 
 header, main, footer {
@@ -36,8 +36,8 @@ header, footer, footer a {
 }
 
 header img {
-    width: 75; /*  */;
-    height: 150;
+    width: 90; /*  */;
+    height: 180;
     float: right;
 }
 
