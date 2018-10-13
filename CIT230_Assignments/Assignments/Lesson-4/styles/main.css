@@ -1,0 +1,101 @@
+body
+{
+	margin: 0;
+    padding: 0;
+    background-color: silver;
+	font-family: arial, helvetica, sans-serif;
+}
+h1 {margin: 0; 
+}
+
+h2 {margin: 0;
+    font-size: 24px;
+    text-align: center;
+    color: white; 
+    background: #cc7722; 
+}
+
+h4 {margin: 0;
+    font-size: 16px;
+    text-align: center;
+    color: white; 
+    background: #cc7722 ;
+
+}
+h5 {margin: 0;
+    font-size: 16px;
+    text-align: center;
+    color: white; 
+    background: #40826D;
+}
+h6 {margin: 0;
+    font-size: 16px;
+    text-align: center;
+    color: white; 
+    background: #40826D;
+}
+blockquote {width: 30em;}
+.intro 
+{
+	font-size: 1.2em;
+	color: gray;
+}
+
+.box {
+    background-image: url(../img/bluesky.png);           
+    padding: 28px;
+    margin-left: 0px;
+    Margin-top: 0px;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.forecast {
+    background-color: #007FFF ;
+    background-image: url(../img/forecast.png);
+    text-align: center;
+    padding: 50px 0;
+}
+
+.map {
+    background-color: #D2B48C  ;
+    text-align: center;
+    padding: 50px 0;
+}
+.container
+{
+	width: 0;
+	margin-left:auto;
+	margin-right:auto;
+}
+.nav {
+
+    padding: .5rem;
+	background:cadetblue;
+}
+#main { margin: 1em 2em; }
+.nav ul {
+    margin: 0;
+    padding: 0;
+}
+.nav li {
+    display: inline;
+    margin-right: 1em;
+
+}
+.nav li a {color: #fff;}
+.nav li > a { text-decoration: none; }
+header, main, footer {
+    margin: auto;
+    padding: 1.5rem;
+    max-width: 5000px;
+}
+header, footer, footer a {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+  
+}
+footer {
+    font-size: 16px /* smaller */;
+}
